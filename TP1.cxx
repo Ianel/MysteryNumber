@@ -9,7 +9,7 @@ int main()
 	/*Initialisation des variables et des constantes*/
 	bool continuerPartie = 1;
 	const int MAX = 100, MIN = 1;
-	int nombreMystere, nombreEntre, cpt;
+	int nombreMystere, nombreEntre, cpt = 0;
 	char choix;
 
 	do { //Debut de la 1ere boucle
